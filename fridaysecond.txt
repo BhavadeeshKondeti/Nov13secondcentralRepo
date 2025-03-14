@@ -1,6 +1,6 @@
 Today is the last day from central repo
-<<<<<<< Updated upstream
+
 venkat iam fine
-=======
+
 Lokesh how are you
->>>>>>> Stashed changes
+
